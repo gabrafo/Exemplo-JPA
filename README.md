@@ -25,3 +25,5 @@ http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd" version="2.1">
     </persistence-unit>
 </persistence>
 ```
+
+Não se esqueça de checar as dependências do Maven no arquivo `pom.xml`, bem como sua versão do Java.
